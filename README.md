@@ -48,8 +48,8 @@ Currently validating with pilot customers and refining the platform.
 
 ## 📫 Get in Touch
 
-- **Email:** andrewelsayegh9@gmail.com
-- **LinkedIn:** [Connect with me on LinkedIn](https://linkedin.com/in/andrew-el-sayegh)
+- **Email:** andrewelsayegh8@gmail.com
+- **LinkedIn:** [Connect with me on LinkedIn](https://www.linkedin.com/in/andrew-e-921028390)
 - **Location:** Ottawa, ON, Canada
 
 ---
