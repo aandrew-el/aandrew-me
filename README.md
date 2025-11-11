@@ -49,7 +49,7 @@ Currently validating with pilot customers and refining the platform.
 ## 📫 Get in Touch
 
 - **Email:** andrewelsayegh8@gmail.com
-- **LinkedIn:** [Connect with me on LinkedIn](https://www.linkedin.com/in/andrew-e-921028390)
+- **LinkedIn:** [Connect with me on LinkedIn](https://www.linkedin.com/in/aandrewel)
 - **Location:** Ottawa, ON, Canada
 
 ---
