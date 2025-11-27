@@ -1,63 +1,56 @@
-# Hey, I'm Andrew 👋
+# Hey, I'm Andrew
 
-**16 | Ottawa, ON | Software Developer**
+**16-year-old Full-Stack Developer | Ottawa, ON**
 
-I build AI-powered applications for fitness businesses.
-
----
-
-## 🚀 What I'm Working On
-
-**AI App Generator for Gyms**
-- Automated Flutter app generation with 20+ AI features
-- Built for CrossFit gyms and fitness studios
-- Features: AI workout plans, churn prediction, nutrition coaching, automated scheduling
-- Tech: Flutter, Python, Claude AI, Firebase, Supabase
-
-Currently validating with pilot customers and refining the platform.
+I build MVPs and web apps for startups. Fast delivery, clean code, modern stack.
 
 ---
 
-## 🛠️ Tech Stack
+## Portfolio
 
-**Languages & Frameworks:**
-- Flutter / Dart
-- Python
-- JavaScript / TypeScript
+### [SaaS Dashboard](https://saas-dashboard-ngeazfea4-andrews-projects-8a799fb4.vercel.app)
+Production-ready analytics dashboard with auth, billing, and data visualization.
+- **Tech:** Next.js 14, TypeScript, Supabase, Stripe, Recharts, shadcn/ui
+- **Features:** Real-time charts, user management, subscription billing, dark mode
+- [View Code](https://github.com/aandrew-el/saas-dashboard)
 
-**AI & Backend:**
-- Claude AI API
-- OpenAI API
-- Firebase (Auth, Firestore, Cloud Functions)
-- Supabase (PostgreSQL, Edge Functions, RLS)
-
-**Tools:**
-- Git / GitHub
-- VS Code
-- Terminal / CLI
+### [Reddit Clone](https://reddit-clone-nu-six.vercel.app)
+Full-featured social platform with posts, comments, voting, and communities.
+- **Tech:** Next.js 15, TypeScript, Supabase, Tailwind CSS
+- **Features:** Auth, nested comments, karma system, community creation
+- [View Code](https://github.com/aandrew-el/reddit-clone)
 
 ---
 
-## 💼 Looking For
+## Tech Stack
 
-- Part-time development work (Ottawa or remote)
-- CrossFit gym owners interested in AI-powered member apps
-- Collaborators on AI + fitness tech projects
+**Frontend:** Next.js, React, TypeScript, Tailwind CSS, shadcn/ui
 
----
+**Backend:** Supabase (PostgreSQL, Auth, RLS), Node.js
 
-## 📫 Get in Touch
+**Payments:** Stripe
 
-- **Email:** andrewelsayegh8@gmail.com
-- **LinkedIn:** [Connect with me on LinkedIn](https://www.linkedin.com/in/aandrewel)
-- **Location:** Ottawa, ON, Canada
+**Deployment:** Vercel
 
 ---
 
-## 📊 GitHub Stats
+## Hire Me
 
-![Andrew's GitHub stats](https://github-readme-stats.vercel.app/api?username=aandrew-me&show_icons=true&theme=dark)
+I'm available for freelance MVP development. If you have a startup idea that needs to ship fast, let's talk.
+
+**What I build:**
+- SaaS dashboards
+- Marketplace platforms
+- Social apps
+- Internal tools
+- Landing pages with auth
+
+**Timeline:** 1-3 weeks depending on scope
+
+**Contact:**
+- Email: andrewelsayegh8@gmail.com
+- LinkedIn: [linkedin.com/in/andrew-e-921028390](https://linkedin.com/in/andrew-e-921028390)
 
 ---
 
-*Building in public. Ask me about AI-powered fitness apps.*
+![Andrew's GitHub stats](https://github-readme-stats.vercel.app/api?username=aandrew-el&show_icons=true&theme=dark&hide_border=true)
