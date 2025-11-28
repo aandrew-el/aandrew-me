@@ -49,7 +49,7 @@ I'm available for freelance MVP development. If you have a startup idea that nee
 
 **Contact:**
 - Email: andrewelsayegh8@gmail.com
-- LinkedIn: [linkedin.com/in/andrew-e-921028390](https://linkedin.com/in/andrew-e-921028390)
+- LinkedIn: [linkedin.com/in/aandrewel](https://www.linkedin.com/in/aandrewel)
 
 ---
 
