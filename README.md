@@ -1,12 +1,18 @@
 # Hey, I'm Andrew
 
-**16-year-old Full-Stack Developer | Ottawa, ON**
+**Full-Stack Developer | Ottawa, ON**
 
 I build MVPs and web apps for startups. Fast delivery, clean code, modern stack.
 
 ---
 
 ## Portfolio
+
+### [HabitFlow](https://habit-tracker-andrew.vercel.app)
+Habit tracking app with AI-powered insights, push notifications, and streak tracking.
+- **Tech:** Next.js 14, TypeScript, Supabase, OpenAI API, Web Push, shadcn/ui
+- **Features:** AI weekly insights, push notifications, calendar view, achievements, dark mode
+- [View Code](https://github.com/aandrew-el/habit-tracker)
 
 ### [SaaS Dashboard](https://saas-dashboard-ngeazfea4-andrews-projects-8a799fb4.vercel.app)
 Production-ready analytics dashboard with auth, billing, and data visualization.
